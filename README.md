@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Codewars badge](https://www.codewars.com/users/jeca514/badges/large)
 <!--
 **jeca514/jeca514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
